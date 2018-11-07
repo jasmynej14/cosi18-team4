@@ -1,4 +1,8 @@
 Name     : Tenzin Dasel
 githubid : tenzidasel
 date     : 11/5/2018
+<<<<<<< HEAD
 *testingtenzin*
+=======
+--Jasmyne Edit---
+>>>>>>> e4705a99003eba33f700d13b3c5baab646bef19a
